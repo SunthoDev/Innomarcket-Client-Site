@@ -1,0 +1,33 @@
+.bankDocument {
+    background-color: coral;
+    color: white;
+    width: -webkit-fill-available;
+    height: 38px;
+}
+
+h5.banktitle {
+    margin-top: -50px;
+    margin-bottom: 5px !important;
+}
+
+.btn-container {
+  display: flex;
+  /* flex-direction: column; */
+  gap: 8px;
+  background-color: #efefef;
+  border-radius: 8px 0 8px;
+  overflow: hidden;
+  position: absolute;
+  font-weight: bold;
+  top: 0px;
+  left: 0;
+  z-index: 100;
+}
+  
+  button {
+    border: none;
+    color: #737373;
+    background-color: #fff;
+    padding:10px;
+    cursor: pointer;
+  }

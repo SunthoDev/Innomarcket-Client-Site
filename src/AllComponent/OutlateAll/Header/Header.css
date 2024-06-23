@@ -1,0 +1,104 @@
+
+
+
+.navbar .NaveMenu a {
+    color: white;
+    margin: 0 6px;
+    text-transform: uppercase;
+    font-weight: 500;
+    font-size: 13px;
+}
+
+.navParent {
+    background-color: #202f4e;
+    border-bottom: 2px solid #1b2841;
+}
+
+
+.navbar .NaveMenu .Drop{
+    position: relative; 
+    transition: .5s;
+}
+.navbar .OrderNow {
+    border: 1px solid #fa5d6f;
+    padding: 10px 26px;
+    border-radius: 6px;
+    font-size: 15px;
+    font-weight: 500;
+    color: white;
+}
+
+.navbar .NaveMenu .Drop .dropdown {
+    position: absolute;
+    width: 230px;
+    top: 32px;
+    left: 0px;
+    background-color: #131c2e;
+    border-radius: 4px;
+    visibility: hidden;
+    border: 2px solid #FFC576;
+    transition: .4s;
+    transform: scale(0);
+    transform-origin: top;
+}
+.navbar .NaveMenu .Drop .dropdown li:hover{
+    transition: .2s;
+    background-color: #fa5d6f;
+}
+.navbar .NaveMenu .Drop:hover .dropdown {
+    visibility: visible;
+    left: 0px;
+    transform: scale(1);
+}
+
+.navbar .NaveMenu .Drop .dropdown li {
+    color: white;
+    transition: 1s;
+    padding: 10px 16px;
+    border-bottom: 1px solid #FFC576;
+}
+.navbar .NaveMenu .Drop .dropdown li:last-child{
+    
+    border-top: none;
+    
+    
+}
+.navbar .NaveMenu .Drop .dropdown li:hover a{
+    background-color: #fa5d6f;
+    color: white;
+}
+
+ .py-11{
+    padding-top: .75rem !important;
+    padding-bottom: 0rem !important;
+} 
+
+.navbar .NaveMenu a:hover{
+    color: #fa5d6f;
+}
+.topmenu:hover{
+    color: #FA5D6F;
+}
+
+.navbar .OrderNow:hover{
+    background-color: #FA5D6F;
+    color: white;
+}
+.loginBtn{
+    border: none;
+    color: #ffffff;
+    background-color: #73737300;
+    padding: 10px;
+    cursor: pointer;
+}
+
+
+
+
+
+
+
+
+
+
+

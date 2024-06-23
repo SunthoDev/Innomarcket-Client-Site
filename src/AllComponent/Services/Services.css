@@ -1,0 +1,136 @@
+
+.servicesParent{
+    font-family: 'Inter', sans-serif !important;
+}
+
+.servicesParent .Graphic .GraphicLeft h2 {
+    color: black;
+    font-size: 34px;
+    font-weight: 700;
+    /* font-family: sans-serif; */
+}
+
+.servicesParent .Graphic .GraphicLeft p {
+    color: black;
+    font-size: 16px;
+    text-align: left;
+    font-weight: 400;
+    padding: 12px 0;
+}
+
+.servicesParent .Graphic .GraphicLeft .BrandingRight{}
+
+.servicesParent .Graphic .GraphicLeft .BrandingRight .serv{}
+
+.servicesParent .Graphic .GraphicLeft .BrandingRight .serv i {
+    width: 23px;
+    height: 23px;
+    background-color: #FA5D6F;
+    border-radius: 50%;
+    text-align: center;
+    color: white;
+    line-height: 23px;
+    margin-right: 10px;
+}
+
+.servicesParent .Graphic .GraphicLeft .BrandingRight .serv h3 {
+    color: black;
+    font-size: 15px;
+    font-weight: 600;
+}
+
+.servicesParent .Graphic .GraphicRight .img {
+    width: 553px;
+    height: 553px;
+}
+
+.servicesParent .Graphic .GraphicRight .img img{
+    
+    border-radius: 9px;
+}
+
+
+
+
+.servicesParent .Approach h2 {
+    color: #363636;
+    font-size: 32px;
+    font-weight: 800;
+    text-align: center;
+}
+
+.servicesParent .Approach .AproMain .AproCard {
+    background-color: #212F4F;
+    padding: 78px 45px;
+    border-radius: 12px;
+    margin-top: 24px;
+}
+.servicesParent .Approach .AproMain .AproCard h2 {
+    color: white;
+    background-color: #FA5D6F;
+    padding: 10px 20px;
+    text-align: center;
+    border-radius: 8px;
+    font-size: 16px;
+    font-weight: 500;
+    width: max-content;
+}
+.servicesParent .Approach .AproMain .AproCard p {
+    color: white;
+    font-size: 14px;
+    font-weight: 400;
+    margin-top: 22px;
+    border-left: 4px solid #FA5D6F;
+    padding-left: 22px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.servicesParent .Question{
+    text-align: center;
+}
+.servicesParent .Question h2{
+    color: black;
+    font-size: 32px;
+    font-weight: 600;
+    /* font-family: sans-serif; */
+    line-height: 38px;
+}
+.servicesParent .Question h2 span{
+    color: #FA5D6F;
+}
+.servicesParent .Question button {
+    color: black;
+    font-size: 16px;
+    font-weight: 600;
+    border: 1px solid #FA5D6F;
+    padding: 8px 16px;
+    border-radius: 2px;
+    transition: .4s;
+    text-align: right;
+    margin-top: 24px;
+}
+.servicesParent .Question button:hover{
+    background-color: #FA5D6F;
+}
+
+h2.ServiceTitle {
+
+    margin: 90px 0px 53px 0px;
+}

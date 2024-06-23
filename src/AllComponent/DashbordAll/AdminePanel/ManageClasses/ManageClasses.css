@@ -1,0 +1,77 @@
+.titleManage{
+    text-align: center;
+}
+.titleManage p {
+    color: #1E8F85;
+    font-size: 14px;
+    font-weight: 500;
+    margin-bottom: 14px;
+}
+.titleManage h3 {
+    border-top: 3px solid #1E8F85;
+    border-bottom: 3px solid #1E8F85;
+    font-size: 26px;
+    font-weight: 600;
+    padding: 12px 0;
+}
+
+
+
+
+.hedInfo h2 {
+    font-size: 26px;
+    font-family: emoji;
+    font-weight: 700;
+}
+.hedInfo h3{
+    font-size: 26px;
+    font-family: emoji;
+    font-weight: 700;
+}
+.hedInfo button {
+    background-color: #d1a054;
+    color: white;
+    padding: 6px 17px;
+    border-radius: 6px;
+    font-weight: 500;
+    font-size: 18px;
+    font-family: fangsong;
+}
+
+
+
+
+.Header {
+    background-color: #1E8F85;
+    padding: 10px 0;
+    width: 100%;
+}
+.Header th {
+    color: rgb(255, 255, 255);
+    font-size: 13px;
+    font-weight: 700;
+    font-family: auto;
+    padding-top: 20px;
+    text-align: center;
+    line-height: 20px;
+}
+
+.textarea{
+    border: 1px solid red;
+}
+
+.backBtn{
+    color: #1e8f85;
+    width: 13%;
+    height: 45px;
+    border: 1px solid #1e8f85;
+    margin-bottom: 10px;
+    border-radius: 6px;
+}
+.backBtn:hover{
+    background-color: #1e8f85;
+    color: white;
+}
+.deleteClassButton{
+     padding: 12px 17px !important;
+}

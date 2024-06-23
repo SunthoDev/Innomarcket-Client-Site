@@ -1,0 +1,121 @@
+
+
+.servicesTow {
+    font-family: 'Inter', sans-serif !important;
+}
+
+
+.servicesTow .Graphic .GraphicLeft h2 {
+    color: black;
+    font-size: 34px;
+    font-weight: 700;
+    /* font-family: sans-serif; */
+}
+
+.servicesTow .Graphic .GraphicLeft p {
+    color: black;
+    font-size: 16px;
+    text-align: left;
+    font-weight: 400;
+    padding: 12px 0;
+}
+
+.servicesTow .Graphic .GraphicLeft .BrandingRight{}
+
+.servicesTow .Graphic .GraphicLeft .BrandingRight .serv{}
+
+.servicesTow .Graphic .GraphicLeft .BrandingRight .serv i {
+    width: 23px;
+    height: 23px;
+    background-color: #FA5D6F;
+    border-radius: 50%;
+    text-align: center;
+    color: white;
+    line-height: 23px;
+    margin-right: 10px;
+}
+
+.servicesTow .Graphic .GraphicLeft .BrandingRight .serv h3 {
+    color: black;
+    font-size: 15px;
+    font-weight: 600;
+}
+
+.servicesTow .Graphic .GraphicRight .img {
+    width: 96%;
+    height: 480px;
+}
+
+.servicesTow .Graphic .GraphicRight .img img{
+    
+    border-radius: 9px;
+}
+
+
+
+
+.servicesTow .Approach h2 {
+    color: black;
+    font-size: 28px;
+    font-weight: 600;
+    /* font-family: sans-serif; */
+    text-align: center;
+}
+
+.servicesTow .Approach .AproMain .AproCard {
+    background-color: #202F4E;
+    padding: 78px 45px;
+    border-radius: 12px;
+    margin-top: 24px;
+}
+.servicesTow .Approach .AproMain .AproCard h2 {
+    color: white;
+    background-color: #FA5D6F;
+    padding: 10px 20px;
+    text-align: center;
+    border-radius: 8px;
+    font-size: 16px;
+    font-weight: 500;
+    width: max-content;
+}
+.servicesTow .Approach .AproMain .AproCard p {
+    color: white;
+    font-size: 14px;
+    font-weight: 400;
+    margin-top: 22px;
+    border-left: 4px solid #FA5D6F;
+    padding-left: 22px;
+}
+
+
+
+
+.servicesTow .Question{
+    text-align: center;
+}
+.servicesTow .Question h2{
+    color: black;
+    font-size: 32px;
+    font-weight: 600;
+    /* font-family: sans-serif; */
+    line-height: 38px;
+}
+.servicesTow .Question h2 span{
+    color: #FA5D6F;
+}
+.servicesTow .Question button {
+    color: black;
+    font-size: 16px;
+    font-weight: 600;
+    border: 1px solid #FA5D6F;
+    padding: 8px 16px;
+    border-radius: 2px;
+    transition: .4s;
+    text-align: right;
+    margin-top: 24px;
+}
+.servicesTow .Question button:hover{
+    background-color: #FA5D6F;
+}
+
+

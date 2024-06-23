@@ -1,0 +1,65 @@
+
+.Services .titles {
+    margin-top: 24px;
+    font-family: 'Inter', sans-serif !important;
+}
+
+.Services .titles h2 {
+    font-size: 18px;
+    font-weight: 600;
+    /* font-family: sans-serif; */
+    color: #FA5D6F;
+    margin-bottom: 10px;
+}
+.Services .titles h3 {
+    color:black;
+    font-size: 28px;
+    font-weight: 700;
+    /* font-family: sans-serif; */
+}
+
+
+
+
+
+
+.maineItems{
+    margin-top: 80px;
+    font-family: 'Inter', sans-serif !important;
+
+
+}
+
+.Services .maineItems .Item .img{
+    width: 50px;
+    height: 50px;
+}
+
+
+.Services .maineItems .Item h2 {
+    font-size: 18px;
+    color: black;
+    font-weight: 700;
+    /* font-family: sans-serif; */
+    padding-top: 14px;
+}
+.Services .maineItems .Item p {
+    padding: 10px 0;
+    /* font-family: sans-serif; */
+    font-weight: 500;
+    font-size: 15px;
+}
+.Services .maineItems .Item button {
+    color: black;
+    font-size: 16px;
+    font-weight: 600;
+    border: 1px solid #FA5D6F;
+    padding: 8px 16px;
+    border-radius: 8px;
+    transition: .4s;
+    text-align: right;
+}
+.Services .maineItems .Item button:hover{
+    background-color: #FA5D6F;
+    color: white;
+}

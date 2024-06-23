@@ -1,0 +1,74 @@
+
+.ExclusiveFAQ{
+    font-family: 'Inter', sans-serif !important;
+}
+
+
+.ExclusiveFAQ .ExclusiveMainFAQ .FAQCard {
+    background-color: #202F4E;
+    width: 100%;
+    height: 220px;
+    border-radius: 8px;
+}
+
+.ExclusiveFAQ .ExclusiveMainFAQ .FAQCard .nestate {
+    left: 50%;
+    position: absolute;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.ExclusiveFAQ .ExclusiveMainFAQ .FAQCard .img {
+    width: 110px;
+    height: 110px;
+    background-color: rgb(219, 207, 207);
+    border-radius: 50%;
+    overflow: hidden;
+    margin: 0 auto;
+    border: 1px solid #fa5d6f;
+}
+
+.ExclusiveFAQ .ExclusiveMainFAQ .FAQCard h2 {
+    text-align: center;
+    color: white;
+    font-size: 16px;
+    font-weight: 400;
+    padding-top: 9px;
+}
+
+
+
+.ExclusiveFAQ .Question{
+    text-align: center;
+}
+.ExclusiveFAQ .Question h2{
+    color: black;
+    font-size: 32px;
+    font-weight: 600;
+    /* font-family: sans-serif; */
+    line-height: 38px;
+}
+.ExclusiveFAQ .Question h2 span{
+    color: #FA5D6F;
+}
+.ExclusiveFAQ .Question button {
+    color: black;
+    font-size: 16px;
+    font-weight: 600;
+    border: 1px solid #FA5D6F;
+    padding: 8px 16px;
+    border-radius: 2px;
+    transition: .4s;
+    text-align: right;
+    margin-top: 24px;
+}
+.ExclusiveFAQ .Question button:hover{
+    background-color: #FA5D6F;
+}
+
+
+
+
+
+
+

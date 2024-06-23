@@ -1,0 +1,123 @@
+.footer {
+
+  
+    font-family: 'Inter', sans-serif !important;
+
+}
+
+.footer .One .ImageLogo {
+    margin-bottom: 64px;
+}
+
+.footer .One .FooterIcon {
+    padding: 8px 0;
+}
+
+.footer .One .FooterIcon i {
+    font-size: 18px;
+    color: #fa5d6f;
+    padding-right: 19px;
+}
+
+.footer .One .FooterIcon span {
+    font-size: 16px;
+    /* font-family: emoji; */
+    font-weight: 500;
+    color: white;
+}
+
+
+
+.footer .One .FooterSocialMedia {
+    margin-top: 28px;
+}
+
+.footer .One .FooterSocialMedia h3 {
+    color: white;
+    font-size: 17px;
+    font-weight: 500;
+    margin-bottom: 12px;
+}
+
+.footer .One .FooterSocialMedia i {
+    color: #131C2E;
+    background-color: white;
+    margin-right: 10px;
+    font-size: 17px;
+    width: 22px;
+    height: 22px;
+    text-align: center;
+    line-height: 22px;
+}
+
+
+
+
+.footer .Tow {
+    padding-top: 18px;
+}
+
+.footer .Tow span {
+    color: white;
+    font-size: 18px;
+    /* font-family: auto; */
+}
+
+
+.footer .Tow a {
+    margin-top: 20px;
+    color: white;
+    font-size: 14px;
+    /* font-family: cursive; */
+
+}
+
+.footer .Three {
+    padding-top: 18px;
+}
+
+.footer .Three span {
+    color: white;
+    font-size: 18px;
+    /* font-family: auto; */
+
+}
+
+.footer .Three a {
+    margin-top: 20px;
+    color: white;
+    font-size: 14px;
+    /* font-family: cursive; */
+}
+
+
+
+.footer .Four {
+    padding-top: 18px;
+}
+
+.footer .Four span {
+    color: white;
+    font-size: 18px;
+    /* font-family: auto; */
+
+}
+
+element.style {
+    font-size: 14px;
+    color: white;
+    font-weight: 500;
+    /* font-family: auto; */
+}
+
+.footer .Four .PaymentOpction img {
+    padding-right: 18px;
+}
+
+
+.copyRight .copyRightContent {}
+
+.fotterLine {
+    background-color: #4160a1;
+    height: 1px;
+}

@@ -1,0 +1,286 @@
+
+.ProductBannerMain{
+    font-family: 'Inter', sans-serif !important;
+}
+
+.ProductBannerMain .ProductBanner .ProductBannerCard .ProductBannerLeft h2 {
+    color: white;
+    font-size: 38px;
+    font-weight: 600;
+}
+
+.ProductBannerMain .ProductBanner .ProductBannerCard .ProductBannerLeft p {
+    color: white;
+    font-size: 16px;
+    padding: 30px 0;
+    line-height: 32px;
+    width: 28rem;
+}
+.ProductBannerMain .ProductBanner .ProductBannerCard .ProductBannerLeft button{
+    color: rgb(0, 0, 0);
+    font-size: 16px;
+    font-weight: 600;
+    border: 1px solid #FA5D6F;
+    padding: 8px 16px;
+    border-radius: 8px;
+    transition: .4s;
+    text-align: right;
+}
+.ProductBannerMain .ProductBanner .ProductBannerCard .ProductBannerLeft button:hover{
+    background-color: #FA5D6F;
+}
+
+
+
+.ProductBannerMain .ProductBanner .ProductBannerCard .ProductBannerRight .img {
+    width: 100%;
+    height: 480px;
+}
+
+
+/* --------------------------- */
+
+
+.ProductBannerMain .ProductDetailMain .DetailMain .DEtailsLeft .img {
+    width: 100%;
+    height: 408px;
+}
+.ProductBannerMain .ProductDetailMain .DetailMain .DEtailsLeft .img img{
+   border-radius: 8px;
+
+}
+
+
+.ProductBannerMain .ProductDetailMain .DetailMain .DEtailsRight p {
+    font-size: 14px;
+    font-weight: 600;
+    /* font-family: auto; */
+    text-align: left;
+    line-height: 26px;
+}
+
+/* --------------------------- */
+
+
+.ProductBannerMain .StartedStape .StapeTitle .StapeTitleLeft h3 {
+    color: #FA5D6F;
+    font-size: 15px;
+    font-weight: 600;
+    /* font-family: sans-serif; */
+}
+
+.ProductBannerMain .StartedStape .StapeTitle .StapeTitleLeft h2 {
+    font-size: 33px;
+    /* font-family: sans-serif; */
+    font-weight: 600;
+    line-height: 46px;
+}
+
+.ProductBannerMain .StartedStape .StapeTitle .StapeTitleRight p {
+    color: #626F81;
+    /* font-family: emoji; */
+    font-size: 13px;
+    line-height: 24px;
+    width: 78%;
+    font-weight: 100;
+}
+
+
+
+
+
+.ProductBannerMain .StartedStape .StartedStapeMain .StartedStapeCard h1 {
+    color: #FA5D6F;
+    font-size: 42px;
+    font-weight: 800;
+    /* font-family: sans-serif; */
+}
+.ProductBannerMain .StartedStape .StartedStapeMain .StartedStapeCard h2 {
+    color: #212F4F;
+    font-size: 20px;
+    font-weight: 700;
+}
+.ProductBannerMain .StartedStape .StartedStapeMain .StartedStapeCard p {
+    color: #626F81;
+    font-size: 15px;
+    text-align: left;
+    font-weight: 400;
+    /* font-family: auto; */
+    padding-top: 4px;
+}
+
+
+
+
+
+
+
+
+
+.ProductBannerMain  .Expanding .ExpandingMain{}
+
+.ProductBannerMain  .Expanding .ExpandingMain {
+    background-color: #202F4E;
+    padding: 34px 36px;
+    border-radius: 10px;
+}
+
+.ProductBannerMain  .Expanding .ExpandingMain .ExpandingItemLeft h2 {
+    color: #FFFFFF;
+    font-size: 26px;
+    font-weight: 600;
+    /* font-family: inherit; */
+    line-height: 50px;
+}
+.ProductBannerMain  .Expanding .ExpandingMain .ExpandingItemLeft button {
+    color: black;
+    font-size: 16px;
+    font-weight: 600;
+    border: 1px solid #FA5D6F;
+    padding: 8px 16px;
+    border-radius: 8px;
+    transition: .4s;
+    text-align: right;
+    background-color: #FA5D6F;
+    margin-top: 22px;
+}
+.ProductBannerMain  .Expanding .ExpandingMain .ExpandingItemLeft button:hover{
+    background-color: #FFFFFF;
+}
+
+
+.ProductBannerMain  .Expanding .ExpandingMain .ExpandingItemRight .img {
+    width: 88%;
+    height: 265px;
+    margin-left: 163px;
+}
+/* Tablet screen */
+@media screen and (min-device-width: 768px) {
+ .ProductBannerMain  .Expanding .ExpandingMain .ExpandingItemRight .img {
+        width: 88%;
+        height: 265px;
+        margin-left: 163px;
+    }
+  }
+  /* Mobile screen */
+  @media only screen and (max-width: 768px)   {
+ .ProductBannerMain  .Expanding .ExpandingMain .ExpandingItemRight .img {
+        width: 100%;
+        height: 265px;
+        margin-left: 0px;
+    }
+    .ProductBannerMain  .Expanding .ExpandingMain .ExpandingItemLeft h2 {
+        color: #FFFFFF;
+        font-size: 20px;
+        font-weight: 600;
+        line-height: 45px;
+    }
+}
+  
+.ProductBannerMain  .Expanding .ExpandingMain .ExpandingItemRight .img img{
+    border-radius: 7px;
+}
+
+
+
+
+
+
+
+
+.ProductBannerMain  .SimplePlan .SimplePlanTitle h1 {
+    color: #333333;
+    font-size: 36px;
+    font-weight: 800;
+}
+.ProductBannerMain  .SimplePlan .SimplePlanTitle h2 {
+    color: black;
+    font-weight: 400;
+    font-size: 14px;
+    padding-top: 10px;
+}
+
+.ProductBannerMain  .SimplePlan .SimplePlanMain .SimplePlanCard {
+    background-color: #202F4E;
+    color: white;
+    padding: 32px 38px;
+    border-radius: 6px;
+}
+
+.ProductBannerMain  .SimplePlan .SimplePlanMain .SimplePlanCard h3 {
+    color: white;
+    font-size: 15px;
+    font-weight: 400;
+}
+.ProductBannerMain  .SimplePlan .SimplePlanMain .SimplePlanCard h1 {
+    font-size: 36px;
+    font-weight: 700;
+    /* font-family: inherit; */
+    color: #FA5D6F;
+    padding: 5px 0;
+}
+
+
+.ProductBannerMain  .SimplePlan .SimplePlanMain .SimplePlanCard .icons {
+    padding: 6px 0;
+}
+
+.ProductBannerMain  .SimplePlan .SimplePlanMain .SimplePlanCard .icons i {
+    width: 18px;
+    height: 18px;
+    background-color: #FA5D6F;
+    border-radius: 50%;
+    text-align: center;
+    color: white;
+    line-height: 18px;
+    margin-right: 10px;
+    font-size: 12px;
+}
+.ProductBannerMain  .SimplePlan .SimplePlanMain .SimplePlanCard .icons p {
+    color: white;
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.ProductBannerMain  .SimplePlan .SimplePlanMain .SimplePlanCard button{
+    color: white;
+    font-size: 12px;
+    font-weight: 600;
+    border: 1px solid #FA5D6F;
+    padding: 8px 16px;
+    border-radius: 8px;
+    transition: .4s;
+    text-align: right;
+    background-color: #FA5D6F;
+    margin-top: 22px;
+}
+
+.ProductBannerMain  .SimplePlan .SimplePlanMain .SimplePlanCard button:hover{
+    background-color: transparent;
+}
+
+.productTitle {
+    color: #212F4F;
+    font-size: 35px !important;
+    font-weight: bold !important;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

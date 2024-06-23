@@ -1,0 +1,107 @@
+
+.PrivacePollice{
+    font-family: 'Inter', sans-serif !important;
+}
+
+
+.PrivacePollice .stepOne{}
+
+.PrivacePollice .stepOne h2 {
+    font-size: 27px;
+    font-weight: 700;
+    color: black;
+    text-align: center;
+}
+
+.PrivacePollice .stepOne p {
+    color: black;
+    font-size: 16px;
+    font-weight: 500;
+    /* font-family: auto; */
+    padding-top: 71px;
+}
+
+.PrivacePollice .stepOne .notice{}
+
+.PrivacePollice .stepOne .notice .data {
+    padding: 14px 0;
+}
+.PrivacePollice .stepOne .notice .data i{
+    width: 18px;
+    height: 18px;
+    background-color: #FA5D6F;
+    border-radius: 50%;
+    text-align: center;
+    color: white;
+    line-height: 18px;
+    margin-right: 10px;
+    font-size: 12px;
+}
+
+.PrivacePollice .stepOne .notice .data h2{
+
+    color: black;
+    font-size: 16px;
+    font-weight: 500;
+    /* font-family: auto; */
+    text-align: left;
+}
+
+
+
+
+
+.PrivacePollice .stepTow{}
+
+.PrivacePollice .stepTow h2 {
+    font-size: 27px;
+    font-weight: 700;
+    color: black;
+    text-align: center;
+}
+
+.PrivacePollice .stepTow p {
+    color: black;
+    font-size: 16px;
+    font-weight: 500;
+    /* font-family: auto; */
+    padding-top: 20px;
+}
+
+.PrivacePollice .stepTow .notice{}
+
+.PrivacePollice .stepTow .notice .data {
+    padding: 14px 0;
+}
+.PrivacePollice .stepTow .notice .data i{
+    width: 18px;
+    height: 18px;
+    background-color: #FA5D6F;
+    border-radius: 50%;
+    text-align: center;
+    color: white;
+    line-height: 18px;
+    margin-right: 10px;
+    font-size: 12px;
+}
+
+.PrivacePollice .stepTow .notice .data h2{
+
+    color: black;
+    font-size: 16px;
+    font-weight: 500;
+    /* font-family: auto; */
+    text-align: left;
+}
+.privacyFont{
+    font-size: 15px !important;
+    font-weight: 100 !important;
+    color: #445279 !important;
+}
+.leftMargin{
+    width: 86%;
+}
+
+
+
+

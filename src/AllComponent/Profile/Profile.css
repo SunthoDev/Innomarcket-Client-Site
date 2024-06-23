@@ -1,0 +1,289 @@
+
+.ProfileALl{
+    font-family: 'Inter', sans-serif !important;
+}
+
+.ProfileALl .ProfileLeft {
+    padding: 54px 0px;
+}
+.ProfileALl .ProfileLeft .img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    overflow: hidden;
+    margin: 0 auto;
+    top: 0left;
+}
+
+.ProfileALl .ProfileLeft .img img{
+    width: 100%;
+    height: 100%;
+}
+
+.ProfileALl .ProfileLeft h3 {
+    color: white;
+    font-size: 16px;
+    text-align: center;
+    /* font-family: inherit; */
+    font-weight: 500;
+    padding-top: 10px;
+}
+
+.ProfileALl .ProfileLeft h2 {
+    color: white;
+    font-size: 16px;
+    text-align: center;
+    /* font-family: auto; */
+    font-weight: 400;
+    padding-top: 0px;
+    margin-bottom: 34px;
+}
+
+.ProfileALl .ProfileLeft hr {
+    margin: 0px 30px;
+}
+
+.ProfileALl .ProfileLeft h4 {
+    color: black;
+    font-size: 15px;
+    text-align: center;
+    /* font-family: sans-serif; */
+    font-weight: 600;
+    border-radius: 6px;
+    margin: 39px 48px;
+    background-color: white;
+    padding: 8px 1px;
+}
+
+
+
+
+
+.ProfileALl .ProfileRight {
+    padding: 54px 54px;
+    
+}
+.ProfileALl .ProfileRight .Edite {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+}
+.ProfileALl .ProfileRight .Edite i {
+    font-size: 22px;
+}
+
+.ProfileALl .ProfileRight h2 {
+    color: #FA5D6F;
+    font-size: 25px;
+    font-weight: 500;
+    /* font-family: inherit; */
+}
+
+.ProfileALl .ProfileRight .infoNAme {
+    display: flex;
+    margin-top: 26px;
+}
+
+.ProfileALl .ProfileRight .infoNAme h3 {
+    font-size: 15px;
+    font-weight: 600;
+    /* font-family: sans-serif; */
+    color: #202f4e;
+}
+.ProfileALl .ProfileRight .infoNAme h5{
+    background-color: red;
+    font-size: 15px;
+    font-weight: 600;
+    /* font-family: sans-serif; */
+}
+
+
+.ProfileALl .ProfileRight .infoNAme  span {
+
+    text-align: left;
+    color: #202f4e;
+    font-weight: 500;
+}
+
+.ProfileALl .ProfileRight h4 {
+    color: #FA5D6F;
+    font-size: 25px;
+    font-weight: 500;
+    /* font-family: inherit; */
+    margin-top: 48px;
+}
+
+.ProfileALl .ProfileRight .HistoryOrder {
+    margin-top: 22px;
+    padding: 12px 34px;
+    border-radius: 8px;
+    margin-bottom: 5px;
+}
+.ProfileALl .ProfileRight .HistoryOrder h2 {
+    color: white;
+    font-size: 12px;
+    font-weight: 500;
+    /* font-family: cursive; */
+}
+
+
+.conversation-btn{
+    background-color: #fd1504ea;
+    color: #fff;
+}
+
+.payment-btn {
+    background-color: #009b69ea !important;
+    color: #fdfdfd;
+    text-align: center;
+    width: 100%;
+}
+.progress-btn {
+    background-color: #00949bea !important;
+    color: #fdfdfd;
+    text-align: center;
+    width: 57%;
+    height: 8vh;
+    border-radius: 50%;
+    margin: 0 auto;
+    display: block;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.alertContainer {
+    position: absolute;
+    top: 0%;
+    left: 50%;
+    transform: translate(-50%, -50%) scale(0.1);
+    text-align: center;
+    visibility: hidden;
+    transition: transform 0.4s, top 0.4s;
+}
+
+.showAlertJs {
+    top: 50%;
+    visibility: visible;
+    transform: translate(-50%, -50%) scale(1);
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    z-index: 999;
+}
+
+.alertContainer .poup {
+    background-color: #F5F5F5;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    width: 100%;
+    position: relative;
+}
+
+.alertContainer .poup .popInfo {
+}
+
+.alertContainer .poup .popInfo  h6 {
+    color: #FA5D6F;
+    font-size: 24px;
+    font-weight: 500;
+    /* font-family: inherit; */
+    text-align: left;
+    margin-bottom: 12px;
+}
+
+
+.alertContainer .poup .popInfo  .inputBox{
+
+
+}
+
+.alertContainer .poup .popInfo  .inputBox .inputData h5 {
+    font-size: 17px;
+    font-weight: 500;
+    text-align: left;
+    /* font-family: emoji; */
+    color: black;
+    margin-top: 18px;
+}
+
+.alertContainer .poup .popInfo  .inputBox .inputData input {
+    border: 1px solid #FA5D6F;
+    padding: 12px 14px;
+    color: black;
+    font-weight: 600;
+    border-radius: 6px;
+    margin-top: 8px;
+    margin-top: 8px;
+    font-size: 14px;
+}
+
+.alertContainer .poup .popInfo  .inputBox h5{
+    font-size: 17px;
+    font-weight: 500;
+    text-align: left;
+    /* font-family: emoji; */
+    color: black;
+    margin-top: 18px;
+}
+
+.alertContainer .poup .popInfo  .inputBox textarea {
+    margin-top: 8px;
+    border: 1px solid #FA5D6F;
+    border-radius: 6px;
+    height: 111px;
+    resize: none;
+    font-weight: 600;
+    font-size: 15px;
+    /* font-family: inherit; */
+    color: black;
+}
+
+
+
+.alertContainer .poup .popInfo  .UpdateButton {
+    color: white;
+    font-size: 20px;
+    font-weight: 600;
+    border: 1px solid #FA5D6F;
+    padding: 8px 16px;
+    border-radius: 8px;
+    transition: .4s;
+    background-color: #FA5D6F;
+    width: 100%;
+    text-align: center;
+    margin-top: 14px;
+}
+
+
+.removeAlertBtn {
+    border: 2px solid white;
+    position: absolute;
+    top: 22px;
+    right: 22px;
+    border-radius: 50%;
+    line-height: 17px;
+    font-size: 28px;
+}
+
+.bankinfos{
+    font-size: 12px;
+}
+.headingColor{
+    background-color: burlywood;
+}
+tr:hover td {
+    background-color: #202f4e;
+    color: white;
+    cursor: pointer;
+}

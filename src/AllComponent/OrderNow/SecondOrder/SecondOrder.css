@@ -1,0 +1,94 @@
+
+
+.SecondInformation {
+    margin-top: 24px;
+    margin-bottom: 28px;
+}
+.SecondInformation .ProjectType h2 {
+    color: black;
+    font-size: 18px;
+    font-weight: 600;
+    text-align: left;
+    margin-bottom: 18px;
+}
+.SecondInformation .ProjectType .ProjectOne {
+    margin-top: 12px;
+}
+.SecondInformation .ProjectType .ProjectTow {
+    margin-top: 12px;
+
+}
+
+
+
+
+.SecondInformation .ProjectAbout {
+    margin-top: 48px;
+}
+.SecondInformation .ProjectAbout h2 {
+    color: black;
+    font-size: 18px;
+    font-weight: 600;
+    text-align: left;
+    margin-bottom: 8px;
+}
+.SecondInformation .ProjectAbout textarea {
+    border: 1px solid black;
+    width: 100%;
+    resize: none;
+    height: 158px;
+    color: black;
+    font-size: 14px;
+    font-weight: 600;
+    padding: 10px 14px;
+    margin-top: 10px;
+}
+
+
+
+
+.SecondInformation .AttachFile {
+    margin-top: 34px;
+}
+.SecondInformation .AttachFile h2 {
+    color: black;
+    font-size: 18px;
+    font-weight: 600;
+    text-align: left;
+    margin-bottom: 5px;
+}
+.SecondInformation .AttachFile input {
+    border: 1px solid black;
+    width: 100%;
+    resize: none;
+    height: 158px;
+    color: black;
+    font-size: 14px;
+    font-weight: 600;
+    padding: 10px 14px;
+    margin-top: 10px;
+}
+
+
+
+.SecondInformation .ProjectQuestion h2 {
+    color: black;
+    font-size: 20px;
+    font-weight: 600;
+    margin-top: 28px;
+    text-align: left;
+    margin-bottom: 1px;
+}
+
+
+.SecondInformation .ProjectQuestion input {
+    border: 1px solid black;
+    width: 100%;
+    resize: none;
+    height: 62px;
+    color: black;
+    font-size: 14px;
+    font-weight: 600;
+    padding: 10px 14px;
+    margin-top: 10px;
+}

@@ -1,0 +1,135 @@
+
+.ERPAll{
+    font-family: 'Inter', sans-serif !important;
+}
+
+.ERPAll .ErpTitle h2 {
+    font-size: 27px;
+    color: black;
+    font-weight: 700;
+    /* font-family: sans-serif; */
+}
+.ERPAll .ErpTitle p {
+    color: black;
+    font-size: 14px;
+    font-weight: 500;
+    padding-top: 12px;
+}
+
+
+
+
+.ERPAll .ERPMaine .ERPLeft .ERPInfo {
+    padding: 10px 0;
+}
+
+.ERPAll .ERPMaine .ERPLeft .ERPInfo i{
+    width: 18px;
+    height: 18px;
+    background-color: #FA5D6F;
+    border-radius: 50%;
+    text-align: center;
+    color: white;
+    line-height: 18px;
+    margin-right: 10px;
+    font-size: 12px;
+}
+
+.ERPAll .ERPMaine .ERPLeft .ERPInfo p {
+    font-size: 16px;
+    font-weight: 500;
+    color: black;
+}
+
+.ERPAll .ERPMaine .ERPRight .img {
+    width: 87%;
+    height: 395px;
+}
+
+
+
+
+.ERPAll .ERPAccess .ERPRLeft .img {
+    width: 88%;
+    height: 378px;
+}
+
+.ERPAll .ERPAccess .ERPRight .ERPInfo {
+    padding: 10px 0;
+}
+.ERPAll .ERPAccess .ERPRight h2 {
+    font-size: 30px;
+    color: black;
+    font-weight: 700;
+    padding-bottom: 12px;
+}
+.ERPAll .ERPAccess .ERPRight .ERPInfo i{
+    width: 18px;
+    height: 18px;
+    background-color: #FA5D6F;
+    border-radius: 50%;
+    text-align: center;
+    color: white;
+    line-height: 18px;
+    margin-right: 10px;
+    font-size: 12px;
+}
+.ERPAll .ERPAccess .ERPRight .ERPInfo p {
+    font-size: 16px;
+    font-weight: 500;
+    color: black;
+}
+
+
+.ERPAll .Question{
+    text-align: center;
+}
+.ERPAll .Question h2{
+    color: black;
+    font-size: 32px;
+    font-weight: 600;
+    /* font-family: sans-serif; */
+    line-height: 38px;
+}
+.ERPAll .Question h2 span{
+    color: #FA5D6F;
+}
+.ERPAll .Question button {
+    color: black;
+    font-size: 16px;
+    font-weight: 600;
+    border: 1px solid #FA5D6F;
+    padding: 8px 16px;
+    border-radius: 2px;
+    transition: .4s;
+    text-align: right;
+    margin-top: 24px;
+}
+.ERPAll .Question button:hover{
+    background-color: #FA5D6F;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

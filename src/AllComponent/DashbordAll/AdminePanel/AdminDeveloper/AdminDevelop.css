@@ -1,0 +1,23 @@
+
+.bgcolors{
+    background-color: #1e8f85;
+}
+.btncolors{
+    background-color: #ffffff;
+}
+.textAlign{
+    justify-content: center;
+}
+textarea{
+    height: 130px;
+}
+
+.text-sm{
+    color: white;
+}
+.dev-txt{
+    color: black;
+}
+.bgcolors{
+    width: 90%;
+}

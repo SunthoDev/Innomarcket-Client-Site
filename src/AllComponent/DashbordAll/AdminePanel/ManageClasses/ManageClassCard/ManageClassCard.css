@@ -1,0 +1,191 @@
+
+
+.DeniteButton {
+    
+    color: #1e8f85;
+    border: 1px solid #1e8f85;
+    border-radius: 6px;
+    font-size: 16px;
+    width: 100px;
+    height: 44px;
+    text-align: center;
+    font-weight: 700;
+    margin-bottom: 5px;
+}
+
+.ApprovedButton{
+    color: #1e8f85;
+    border: 1px solid #1e8f85;
+    border-radius: 6px;
+    font-size: 16px;
+    width: 100px;
+    height: 44px;
+    text-align: center;
+    font-weight: 700;
+    margin-bottom: 5px;
+
+}
+
+.deleteClassButton{
+    color: #ed1c24;
+    border: 1px solid #1e8f85;
+    border-radius: 6px;
+    font-size: 16px;
+    font-size: 19px;
+    width: -webkit-fill-available;
+}
+.deleteClassButton:hover{
+    background-color: #1e8f85;
+    color: white;
+}
+.DetailsClassButton {
+    color: #1e8f85;
+    border: 1px solid #1e8f85;
+    border-radius: 6px;
+    padding: 11px 26px;
+    font-size: 16px;
+    font-weight: 500;
+    transition: .4s;
+}
+.DetailsClassButton:hover{
+    background-color: #1e8f85;
+    color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.alertContainer {
+    position: absolute;
+    top: 0%;
+    left: 50%;
+    transform: translate(-50%, -50%) scale(0.1);
+    text-align: center;
+    visibility: hidden;
+    transition: transform 0.4s, top 0.4s;
+}
+
+.showAlertJs {
+    top: 50%;
+    visibility: visible;
+    transform: translate(-50%, -50%) scale(1);
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    z-index: 999;
+}
+
+.alertContainer .poup {
+    background-color: #F5F5F5;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    width: 100%;
+    position: relative;
+}
+
+.alertContainer .poup .popInfo {
+    height: 500px;
+    overflow-y: scroll;
+}
+.alertContainer .poup .popInfo  h5 {
+    color: #1e8f85;
+    font-size: 20px;
+    font-weight: 500;
+    font-family: inherit;
+    text-align: left;
+    margin-bottom: 27px;
+}
+
+
+
+
+.alertContainer .poup .popInfo .DataInformations{
+    
+    text-align: left;
+}
+
+.alertContainer .poup .popInfo .DataInformations h3 {
+    color: black;
+    font-size: 16px;
+    font-weight: 500;
+    border-bottom: 1px solid #1e8f85;
+    padding-bottom: 9px;
+    font-family: emoji;
+}
+    
+.alertContainer .poup .popInfo .DataInformations h5 {
+    font-family: sans-serif;
+    color: #1e8f85;
+    padding: 12px 0;
+    font-weight: 600;
+    margin-bottom: 12px;
+}
+.alertContainer .poup .popInfo .DataInformations hr {}
+    
+.alertContainer .poup .popInfo .DataInformations h4 {
+    padding: 24px 0;
+    font-size: 20px;
+    font-weight: 500;
+    color: #1e8f85;
+}
+
+.alertContainer .poup .popInfo .DataInformations img {
+    border-radius: 8px;
+    margin-bottom: 20px;
+}
+
+
+
+
+
+.removeAlertBtn {
+    border: 2px solid white;
+    position: absolute;
+    top: 22px;
+    right: 22px;
+    border-radius: 50%;
+    line-height: 17px;
+    font-size: 28px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+

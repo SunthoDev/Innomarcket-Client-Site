@@ -1,0 +1,133 @@
+
+.UIUX{
+    font-family: 'Inter', sans-serif !important;
+}
+
+.UIUX .TemplateOne .img {
+    width: 100%;
+    height: 580px;
+}
+.UIUX .TemplateOne .img img{
+    border-radius: 10px;
+}
+
+
+.UIUX .ProjectDetail {
+    margin-top: 40px;
+}
+.UIUX .ProjectDetail .ProjectDEtailsOne {
+    background-color: #202F4E;
+    border-radius: 8px;
+    color: white;
+    padding: 16px 23px;
+}
+.UIUX .ProjectDetail .ProjectDEtailsOne h2 {
+    color: white;
+    font-size: 16px;
+    /* font-family: fangsong; */
+}
+.UIUX .ProjectDetail .ProjectDEtailsOne h3 {
+    color: white;
+    font-size: 17px;
+    /* font-family: fangsong; */
+    font-weight: 600;
+}
+
+
+
+.UIUX .Presentation {
+    margin-top: 54px;
+}
+.UIUX .Presentation h2 {
+    color: black;
+    font-size: 30px;
+    font-weight: 600;
+    text-align: center;
+}
+.UIUX .Presentation .img {
+    width: 100%;
+    height: 1000px;
+    margin-top: 18px;
+}
+
+.UIUX .Presentation .img img{
+    border-radius: 10px;
+}
+
+
+
+
+.UIUX .ClientSatisfaction {
+    margin-top: 54px;
+}
+
+.UIUX .ClientSatisfaction h2{
+    color: black;
+    font-size: 30px;
+    font-weight: 600;
+    text-align: center;
+}
+
+.UIUX .ClientSatisfaction .ClientSatisfactionMain{
+    margin-top: 18px;
+}
+
+.UIUX .ClientSatisfaction .ClientSatisfactionMain .img{
+    width: 100%;
+    height: 300px;
+}
+.UIUX .ClientSatisfaction .ClientSatisfactionMain .img img{
+    border-radius: 8px;
+}
+
+
+.UIUX .Question{
+    text-align: center;
+}
+.UIUX .Question h2{
+    color: black;
+    font-size: 32px;
+    font-weight: 600;
+    /* font-family: sans-serif; */
+    line-height: 38px;
+}
+.UIUX .Question h2 span{
+    color: #FA5D6F;
+}
+.UIUX .Question button {
+    color: black;
+    font-size: 16px;
+    font-weight: 600;
+    border: 1px solid #FA5D6F;
+    padding: 8px 16px;
+    border-radius: 2px;
+    transition: .4s;
+    text-align: right;
+    margin-top: 24px;
+}
+.UIUX .Question button:hover{
+    background-color: #FA5D6F;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

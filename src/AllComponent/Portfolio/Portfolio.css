@@ -1,0 +1,87 @@
+
+.PortFolio{
+    font-family: 'Inter', sans-serif !important;
+}
+
+.PortFolio .titleRecent {
+    text-align: center;
+}
+
+.PortFolio .titleRecent h2 {
+    font-size: 18px;
+    font-weight: 600;
+    /* font-family: sans-serif; */
+    color: #FA5D6F;
+    margin-bottom: 10px;
+}
+
+.PortFolio .titleRecent h3 {
+    color: black;
+    font-size: 26px;
+    font-weight: 700;
+    /* font-family: sans-serif; */
+}
+
+.ParentTabs .tabHead {
+    color: black;
+    text-align: center;
+    font-size: 15px;
+    font-weight: 600;
+    /* font-family: sans-serif; */
+}
+
+.ParentTabs .MainCard .card .img {
+    width: 100%;
+    border-radius: 8px;
+}
+
+.ParentTabs .MainCard .card .img img {
+    border-radius: 8px;
+    height: 274px;
+}
+
+.ParentTabs .MainCard .card h3 {
+    color: black;
+    font-size: 14px;
+    font-weight: 500;
+    margin-top: 12px;
+    text-align: left;
+}
+
+.ParentTabs .MainCard .card h2 {
+    text-align: left;
+    color: black;
+    font-size: 16px;
+    font-weight: 600;
+    /* font-family: sans-serif; */
+    margin-top: 4px;
+}
+
+
+.PortFolio .Question{
+    text-align: center;
+}
+.PortFolio .Question h2{
+    color: black;
+    font-size: 32px;
+    font-weight: 600;
+    /* font-family: sans-serif; */
+    line-height: 38px;
+}
+.PortFolio .Question h2 span{
+    color: #FA5D6F;
+}
+.PortFolio .Question button {
+    color: black;
+    font-size: 16px;
+    font-weight: 600;
+    border: 1px solid #FA5D6F;
+    padding: 8px 16px;
+    border-radius: 2px;
+    transition: .4s;
+    text-align: right;
+    margin-top: 24px;
+}
+.PortFolio .Question button:hover{
+    background-color: #FA5D6F;
+}

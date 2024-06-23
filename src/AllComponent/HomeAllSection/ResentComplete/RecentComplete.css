@@ -1,0 +1,76 @@
+.Services .titleRecent {
+    text-align: center;
+    font-family: 'Inter', sans-serif !important;
+}
+
+.Services .titleRecent h2 {
+    font-size: 18px;
+    font-weight: 600;
+    /* font-family: sans-serif; */
+    color: #FA5D6F;
+    margin-bottom: 10px;
+}
+
+.Services .titleRecent h3 {
+    color: white;
+    font-size: 28px;
+    font-weight: 700;
+    /* font-family: sans-serif; */
+}
+
+.ParentTabss{
+    font-family: 'Inter', sans-serif !important;
+}
+.ParentTabss .tabHead {
+    color: white;
+    text-align: center;
+    font-size: 15px;
+    font-weight: 600;
+    /* font-family: sans-serif; */
+}
+
+.ParentTabss .MainCard .card .img {
+    width: 100%;
+    border-radius: 8px;
+}
+
+.ParentTabss .MainCard .card .img img {
+    border-radius: 8px;
+    height: 264px;
+}
+
+.ParentTabss .MainCard .card h3 {
+    color: white;
+    font-size: 14px;
+    font-weight: 500;
+    padding-top: 12px;
+    text-align: left;
+}
+
+.ParentTabss .MainCard .card h2 {
+    color: white;
+    font-size: 16px;
+    font-weight: 600;
+    /* font-family: sans-serif; */
+    margin-top: 4px;
+    text-align: left;
+    margin-bottom: 18px;
+}
+
+.Services .ServicesBtn {
+    color: rgb(255, 255, 255);
+    font-size: 16px;
+    font-weight: 600;
+    border: 1px solid #FA5D6F;
+    padding: 8px 16px;
+    border-radius: 8px;
+    transition: .4s;
+    background-color: #FA5D6F;
+    margin-top: 34px;
+}
+
+.Services .ServicesBtn:hover {
+    background-color: transparent;
+    background-color: #ffffff;
+    color: black;
+}

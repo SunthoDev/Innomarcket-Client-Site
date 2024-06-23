@@ -1,0 +1,89 @@
+
+
+.firstInformation .PersonalInformation {
+    padding-top: 28px;
+}
+
+.firstInformation .PersonalInformation input {
+    border: 1px solid black;
+    color: black;
+    padding: 12px 14px;
+    margin-top: 22px;
+    font-weight: 500;
+    font-size: 14px;
+}
+
+
+
+.firstInformation .cardInformation{}
+
+.firstInformation .cardInformation .Accept {
+    padding: 18px 0;
+    margin-top: 30px;
+}
+
+
+.firstInformation .cardInformation .Accept h2 {
+    color: black;
+    font-size: 22px;
+    font-weight: 700;
+    font-family: system-ui;
+    padding-right: 28px;
+    margin: 0;
+}
+
+.firstInformation .cardInformation .Accept .box {
+    background-color: #d6d6d6;
+    padding: 18px 30px;
+    border-radius: 6px;
+    margin-right: 13px;
+}
+.firstInformation .cardInformation input{
+    border: 1px solid black;
+    color: black;
+    padding: 12px 14px;
+    margin-top: 22px;
+    font-weight: 500;
+    font-size: 14px;
+}
+
+
+.firstInformation .cardInformation h2 {
+    color: #FA5D6F;
+    font-size: 22px;
+    font-weight: 500;
+    margin-top: 48px;
+    text-align: left;
+    margin-bottom: 2px;
+}
+.firstInformation .cardInformation p {
+    color: black;
+    font-size: 15px;
+    font-weight: 500;
+    padding-bottom: 28px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

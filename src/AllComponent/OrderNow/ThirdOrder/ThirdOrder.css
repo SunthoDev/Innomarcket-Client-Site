@@ -1,0 +1,103 @@
+.ThirdInformation {
+    margin-bottom: 28px;
+}
+
+.ThirdInformation .projectDetailsThird h2 {
+    text-align: left;
+    color: black;
+    font-size: 18px;
+    font-weight: 600;
+    margin-bottom: 12px;
+    margin-top: 28px;
+}
+.ThirdInformation .projectDetailsThird h4 {
+    color: black;
+    font-size: 18px;
+    font-weight: 600;
+    margin-top: 28px;
+}
+
+.ThirdInformation .projectDetailsThird p {
+    border: 1px solid black;
+    padding: 24px 24px;
+    text-align: left;
+    font-size: 16px;
+    font-weight: 600;
+    margin-top: 14px;
+}
+
+
+.ThirdInformation .projectDetailsThird .QuestionPart {}
+
+.ThirdInformation .projectDetailsThird .QuestionPart h2 {
+    color: black;
+    font-size: 18px;
+    font-weight: 600;
+    margin-top: 28px;
+    text-align: left;
+}
+.ThirdInformation .projectDetailsThird .QuestionPart p {
+    border: 1px solid black;
+    padding: 22px 24px;
+    text-align: left;
+    font-size: 16px;
+    font-weight: 600;
+    margin-top: 14px;
+}
+
+
+
+
+.ThirdInformation .AttachFile {}
+
+
+
+.ThirdInformation .AttachFile .AllFileName {
+    border: 1px solid black;
+    padding: 18px 26px;
+}
+
+
+
+.ThirdInformation .projectDetailsThird h2 {
+    color: black;
+    font-size: 18px;
+    font-weight: 600;
+    margin-bottom: 12px;
+    margin-top: 28px;
+}
+
+
+.ThirdInformation .AttachFile .AllFileName .File {
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.ThirdInformation .AttachFile .AllFileName .File h4 {
+    padding: 0;
+    margin: 0;
+    font-size: 15px;
+    font-family: emoji;
+    font-weight: 600;
+}
+
+.ThirdInformation .AttachFile .AllFileName .File .Row {
+    height: 2px;
+    background-color: #0ca399;
+    margin: 0px 11px;
+}
+
+.ThirdInformation .AttachFile .AllFileName .File i {
+    width: 18px;
+    height: 18px;
+    background-color: #FA5D6F;
+    border-radius: 50%;
+    text-align: center;
+    color: white;
+    line-height: 18px;
+    margin-right: 10px;
+    font-size: 12px;
+}

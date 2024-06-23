@@ -1,0 +1,59 @@
+.Login .others .icon i {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 40px;
+    background-color: #e3e5e5;
+    font-size: 22px;
+    color: #0519fd;
+}
+.Login .others{
+    text-align: center;
+}
+.Login .others h2 {
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    font-weight: 600;
+}
+.Login .others h3 {
+    color: rgb(255, 255, 255);
+    font-weight: 500;
+}
+.Login .others h3 span{
+    color: red;
+}
+.Login .card-body input{
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+.Login .card-body .label span {
+    color: rgb(255, 255, 255);
+    font-weight: 700;
+    font-size: 16px;
+    border-bottom: 1px solid #37cdbe;
+    padding: 7px 0;
+}
+
+
+.logoBackground{
+    background-image: url("https://img.freepik.com/premium-vector/network-connection-background-abstract-style_23-2148875738.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.headBg{
+    background-image: url("https://images.unsplash.com/photo-1531315630201-bb15abeb1653?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=435&q=80");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.card-colors-sign {
+    background-color: #bbb0a24f !important;
+}
+.signUpBtn {
+    border: none;
+    color: #ffffff;
+    background-color: #73737300;
+    padding: 10px;
+    cursor: pointer;
+}

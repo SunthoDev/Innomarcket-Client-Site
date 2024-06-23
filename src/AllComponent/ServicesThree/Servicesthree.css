@@ -1,0 +1,119 @@
+
+.servicesThree{
+    font-family: 'Inter', sans-serif !important;
+}
+
+.servicesThree .Graphic .GraphicLeft h2 {
+    color: black;
+    font-size: 34px;
+    font-weight: 700;
+    /* font-family: sans-serif; */
+}
+
+.servicesThree .Graphic .GraphicLeft p {
+    color: black;
+    font-size: 16px;
+    text-align: left;
+    font-weight: 400;
+    padding: 12px 0;
+}
+
+.servicesThree .Graphic .GraphicLeft .BrandingRight{}
+
+.servicesThree .Graphic .GraphicLeft .BrandingRight .serv{}
+
+.servicesThree .Graphic .GraphicLeft .BrandingRight .serv i {
+    width: 23px;
+    height: 23px;
+    background-color: #FA5D6F;
+    border-radius: 50%;
+    text-align: center;
+    color: white;
+    line-height: 23px;
+    margin-right: 10px;
+}
+
+.servicesThree .Graphic .GraphicLeft .BrandingRight .serv h3 {
+    color: black;
+    font-size: 15px;
+    font-weight: 600;
+}
+
+.servicesThree .Graphic .GraphicRight .img {
+    width: 96%;
+    height: 480px;
+}
+
+.servicesThree .Graphic .GraphicRight .img img{
+    
+    border-radius: 9px;
+}
+
+
+
+
+.servicesThree .Approach h2 {
+    color: black;
+    font-size: 28px;
+    font-weight: 600;
+    /* font-family: sans-serif; */
+    text-align: center;
+}
+
+.servicesThree .Approach .AproMain .AproCard {
+    background-color: #202F4E;
+    padding: 78px 45px;
+    border-radius: 12px;
+    margin-top: 24px;
+}
+.servicesThree .Approach .AproMain .AproCard h2 {
+    color: white;
+    background-color: #FA5D6F;
+    padding: 10px 20px;
+    text-align: center;
+    border-radius: 8px;
+    font-size: 16px;
+    font-weight: 500;
+    width: max-content;
+}
+.servicesThree .Approach .AproMain .AproCard p {
+    color: white;
+    font-size: 14px;
+    font-weight: 400;
+    margin-top: 22px;
+    border-left: 4px solid #FA5D6F;
+    padding-left: 22px;
+}
+
+
+
+
+.servicesThree .Question{
+    text-align: center;
+}
+.servicesThree .Question h2{
+    color: black;
+    font-size: 32px;
+    font-weight: 600;
+    /* font-family: sans-serif; */
+    line-height: 38px;
+}
+.servicesThree .Question h2 span{
+    color: #FA5D6F;
+}
+.servicesThree .Question button {
+    color: black;
+    font-size: 16px;
+    font-weight: 600;
+    border: 1px solid #FA5D6F;
+    padding: 8px 16px;
+    border-radius: 2px;
+    transition: .4s;
+    text-align: right;
+    margin-top: 24px;
+}
+.servicesThree .Question button:hover{
+    background-color: #FA5D6F;
+}
+
+

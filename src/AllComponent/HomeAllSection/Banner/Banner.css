@@ -1,0 +1,71 @@
+.banner .img {
+    width: 100%;
+    height: 450px;
+    padding-bottom: 15px;
+}
+
+.banner .bannerText {
+    position: absolute;
+    top: 11%;
+    left: 50%;
+    transform: translate(-50%, -11%);
+    text-align: center;
+}
+
+.banner .bannerText p {
+    color: white;
+    font-size: 14px;
+    font-family: sans-serif;
+    letter-spacing: 5px;
+    margin-bottom: 7px;
+}
+
+.banner .bannerText h2 {
+    color: white;
+    font-size: 36px;
+    font-weight: 700;
+    font-family: sans-serif;
+}
+
+.banner .bannerText h3 {
+    color: white;
+    font-size: 36px;
+    font-weight: 700;
+    font-family: sans-serif;
+}
+
+.banner .bannerText .MeetWithUs {
+    color: white;
+    font-size: 16px;
+    font-weight: 600;
+    border: 1px solid #FA5D6F;
+    padding: 8px 16px;
+    border-radius: 8px;
+    transition: .4s;
+    background-color: #FA5D6F;
+    margin-top: 22px;
+}
+
+.banner .bannerText .MeetWithUs:hover {
+
+    background-color: transparent;
+    color: white;
+}
+
+
+
+@media only screen and (max-width: 600px) {
+    .banner .bannerText {
+        position: absolute;
+        top: 5%;
+        left: 0%;
+        transform: translate(0%,0%);
+        text-align: center;
+    }
+    .banner .bannerText p {
+        font-size: 10px;
+    }
+    .banner .bannerText h2 ,.banner .bannerText h3{
+        font-size: 28px;
+    }
+}

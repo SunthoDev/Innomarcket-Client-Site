@@ -1,0 +1,275 @@
+
+.css-1hv8oq8-MuiStepLabel-label {
+   font-family: 'Inter', sans-serif !important;
+   color:black !important;
+   font-weight: 600 !important;
+}
+.css-1sn4lm3-MuiTypography-root {
+    font-family: 'Inter', sans-serif !important;
+   color:black !important;
+   font-weight: 600 !important;
+}
+
+.orderNowAll{
+    font-family: 'Inter', sans-serif !important;
+}
+
+.orderNowAll .Order h2 {
+    text-align: center;
+    font-size: 24px;
+    font-weight: 600;
+    /* font-family: sans-serif; */
+    margin-bottom: 48px;
+}
+
+.orderNowAll .Order .NEXTButton {
+    color: white;
+    font-size: 15px;
+    font-weight: 600;
+    border: 1px solid #202f4e;
+    padding: 0px 44px;
+    border-radius: 8px;
+    transition: .4s;
+    background-color: #202f4e;
+    height: 39px;
+}
+.orderNowAll .Order .FINISHButton {
+    color: white;
+    font-size: 15px;
+    font-weight: 600;
+    border: 1px solid #202f4e;
+    padding: 0px 44px;
+    border-radius: 8px;
+    transition: .4s;
+    background-color: #202f4e;
+    height: 39px;
+}
+.orderNowAll .Order .SKIPButton {
+    color: white;
+    font-size: 15px;
+    font-weight: 600;
+    border: 1px solid #202f4e;
+    padding: 0px 44px;
+    border-radius: 8px;
+    transition: .4s;
+    background-color: #202f4e;
+    height: 39px;
+    margin-top: 7px;
+}
+.orderNowAll .Order .BACKButton {
+    color: white;
+    font-size: 15px;
+    font-weight: 600;
+    border: 1px solid #202f4e;
+    padding: 0px 44px;
+    border-radius: 8px;
+    transition: .4s;
+    background-color: #202f4e;
+    height: 39px;
+    margin-top: 7px;
+}
+.orderNowAll .Order .RESETButton {
+    margin: 10px;
+    color: white;
+    font-size: 15px;
+    font-weight: 600;
+    border: 1px solid #202f4e;
+    padding: 0px 44px;
+    border-radius: 8px;
+    transition: .4s;
+    background-color: #202f4e;
+    height: 39px;
+    margin-top: 7px;
+}
+
+
+
+
+
+
+
+.orderNowAll .BankTransfer{}
+
+.orderNowAll .BankTransfer h2{}
+
+.orderNowAll .BankTransfer .BankDetails{}
+
+.orderNowAll .BankTransfer .BankDetails .BuyerInfo {
+    background-color: #202F4E;
+    color: white;
+    padding: 32px 28px;
+}
+.orderNowAll .BankTransfer .BankDetails .BuyerInfo h3 {
+    color: white;
+    font-size: 18px;
+    font-weight: 500;
+    /* font-family: inherit; */
+    margin-bottom: 34px;
+}
+
+.orderNowAll .BankTransfer .BankDetails .BuyerInfo h4 {
+    color: white;
+    font-size: 14px;
+    font-weight: 500;
+    padding-top: 14px;
+}
+
+
+
+
+.orderNowAll .BankTransfer .BankDetails .SenderInfo {
+    background-color: #445279;
+    color: white;
+    padding: 32px 28px;
+}
+
+
+.orderNowAll .BankTransfer .BankDetails .SenderInfo h3{
+    color: white;
+    font-size: 18px;
+    font-weight: 500;
+    /* font-family: inherit; */
+    margin-bottom: 34px;
+}
+
+
+textarea {
+    resize: none;
+    width: 100%;
+    height: 234px;
+    font-size: 13px;
+    font-weight: 500;
+    padding: 20px 20px;
+    color: black;
+}
+
+
+
+
+.orderNowAll .BankTransfer h5 {
+    text-align: center;
+    color: black;
+    font-weight: 500;
+    font-size: 16px;
+    padding: 12px 0;
+    margin-top: 8px;
+}
+
+.orderNowAll .BankTransfer {
+    margin-top: 62px;
+}
+.orderNowAll .BankTransfer .Code input {
+    border: 1px solid #FA5D6F;
+    padding: 16px 36px;
+    width: 100%;
+    color: black;
+    font-size: 16px;
+    font-weight: 600;
+    background-color: #f3f2f2;
+}
+
+.orderNowAll .BankTransfer .Code button {
+    width: 100%;
+    border: 1px solid #FA5D6F;
+    padding: 16px 36px;
+    background-color: #FA5D6F;
+    color: white;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.orderNowAll .BankTransfer .BankNextBtn {
+    width: 100%;
+    background-color: #FA5D6F;
+    color: white;
+    padding: 12px 36px;
+    margin-top: 34px;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.alertContainer {
+    position: absolute;
+    top: 0%;
+    left: 50%;
+    transform: translate(-50%, -50%) scale(0.1);
+    text-align: center;
+    visibility: hidden;
+    transition: transform 0.4s, top 0.4s;
+}
+
+.showAlertJs {
+    top: 50%;
+    visibility: visible;
+    transform: translate(-50%, -50%) scale(1);
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    z-index: 999;
+}
+
+.alertContainer .poup {
+    background-color: white;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    width: 100%;
+    position: relative;
+}
+
+.alertContainer .poup .popInfo {
+    padding: 70px 42px;
+}
+.alertContainer .poup .popInfo h1 {
+    font-size: 34px;
+    font-weight: 500;
+}
+.alertContainer .poup .popInfo i {
+    width: 80px;
+    height: 80px;
+    text-align: center;
+    line-height: 80px;
+    border-radius: 50%;
+    background-color: #30DE83;
+    color: white;
+    font-size: 34px;
+    margin: 34px 0;
+}
+.alertContainer .poup .popInfo .cardInfo {
+    background-color: #202f4e;
+    color: white;
+    padding: 20px 38px;
+}
+
+.alertContainer .poup .popInfo .cardInfo h4 {
+    color: white;
+    font-size: 16px;
+    font-weight: 500;
+    /* font-family: sans-serif; */
+}
+
+
+.removeAlertBtn {
+    border: 2px solid white;
+    position: absolute;
+    top: 22px;
+    right: 22px;
+    border-radius: 50%;
+    line-height: 17px;
+    font-size: 28px;
+}

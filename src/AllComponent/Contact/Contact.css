@@ -1,0 +1,163 @@
+
+.ContactAll{
+    font-family: 'Inter', sans-serif !important;
+}
+
+
+
+.ContactAll .ContactDetails {
+    background-color: #202F4E;
+    color: white;
+    border-radius: 12px;
+}
+.ContactAll .ContactDetails .contactLeft{}
+.ContactAll .ContactDetails .contactLeft h2 {
+    color: white;
+    font-size: 38px;
+    font-weight: 700;
+    /* font-family: none; */
+}
+.ContactAll .ContactDetails .contactLeft p {
+    color: white;
+    font-size: 14px;
+    padding-top: 22px;
+    font-weight: 400;
+}
+.ContactAll .ContactDetails .contactLeft .ContactInfo {
+    padding-top: 24px;
+}
+
+.ContactAll .ContactDetails .contactLeft .ContactInfo h3 {
+    color: white;
+    font-size: 22px;
+    font-weight: 600;
+    /* font-family: sans-serif; */
+}
+.ContactAll .ContactDetails .contactLeft .ContactInfo .number{}
+
+.ContactAll .ContactDetails .contactLeft .ContactInfo .number i {
+    color: red;
+    font-size: 18px;
+    margin-right: 13px;
+}
+.ContactAll .ContactDetails .contactLeft .ContactInfo .number span {
+    font-size: 14px;
+    font-weight: 400;
+}
+
+.ContactAll .ContactDetails .contactLeft .ContactSocialMedia {
+    margin-top: 45px;
+}
+.ContactAll .ContactDetails .contactLeft .ContactSocialMedia h3 {
+    color: white;
+    font-size: 17px;
+    font-weight: 500;
+    margin-bottom: 12px;
+}
+.ContactAll .ContactDetails .contactLeft .ContactSocialMedia i {
+    color: #131C2E;
+    background-color: white;
+    margin-right: 10px;
+    font-size: 17px;
+    width: 22px;
+    height: 22px;
+    text-align: center;
+    line-height: 22px;
+}
+
+
+
+
+
+
+
+
+
+.ContactAll .ContactDetails .contactRight {
+    background-color: white;
+    border-radius: 12px;
+}
+
+.ContactAll .ContactDetails .contactRight .inFoName input {
+    background-color: #445279;
+    padding: 6px 11px;
+    border-radius: 5px;
+}
+
+.ContactAll .ContactDetails .contactRight h2 {
+    color: black;
+    font-weight: 500;
+    padding-bottom: 6px;
+}
+.ContactAll .ContactDetails .contactRight .SelectedRadioBtn h3 {
+    color: black;
+    font-weight: 500;
+}
+.ContactAll .ContactDetails .contactRight .SelectedRadioBtn input{
+}
+
+.ContactAll .ContactDetails .contactRight .MessagePart textarea {
+    resize: none;
+    width: 100%;
+    height: 120px;
+    border-radius: 8px;
+    margin-top: 10px;
+    background-color: #445279;
+    color:white;
+}
+.ContactAll .ContactDetails .contactRight .btnContact .CustomerBtn {
+    color: white;
+    font-size: 16px;
+    font-weight: 600;
+    border: 1px solid #FA5D6F;
+    padding: 8px 36px;
+    border-radius: 8px;
+    transition: .4s;
+    background-color: #FA5D6F;
+    margin-top: 8px;
+}
+.ContactAll .ContactDetails .contactRight .btnContact .CustomerBtn:hover{
+
+    background-color: #212F4F;
+}
+
+
+
+.ContactAll .ContactMap .img img {
+    width: 100%;
+    height: 380px;
+    border-radius: 11px;
+}
+.ContactAll .ContactMap .LocationName {
+    position: absolute;
+    bottom: 113px;
+    left: 50%;
+    background-color: white;
+    padding: 13px 14px;
+    border-radius: 9px;
+    transform: translateX(-50%);
+}
+.ContactAll .ContactMap .LocationName h3 {
+    color: black;
+    font-size: 15px;
+    font-weight: 500;
+}
+
+@media only screen and (max-width: 768px) {
+    .ContactAll .ContactDetails .contactRight .btnContact .CustomerBtn{
+        margin: 15px;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,11 @@
+.msg-img {
+    width: 50px;
+    height: 50px;
+    margin-right: 10px;
+    background: #ddd;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    border-radius: 50%;
+    background-image: url('https://www.pngall.com/wp-content/uploads/12/Avatar-Profile-PNG-Free-Image.png') !important;    
+  }

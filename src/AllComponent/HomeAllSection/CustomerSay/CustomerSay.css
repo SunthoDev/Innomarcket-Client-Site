@@ -1,0 +1,101 @@
+.Services .title {
+    text-align: center;
+}
+
+.Services .title h2 {
+    font-size: 18px;
+    font-weight: 600;
+    /* font-family: sans-serif; */
+    color: #FA5D6F;
+    margin-bottom: 10px;
+}
+
+.Services .title h3 {
+    color: black;
+    font-size: 28px;
+    font-weight: 700;
+    /* font-family: sans-serif; */
+}
+
+
+
+.CustomerParent {
+    margin-top: 54px;
+    font-family: 'Inter', sans-serif !important;
+}
+.CustomerParent .img {
+    width: 100%;
+    height: 448px;
+}
+
+.CustomerParent .customerInfo img{
+    max-width: 100%;
+    height: auto;
+    width: 56px;
+}
+
+.CustomerParent .customerInfo p {
+    font-size: 14px;
+    font-weight: 500;
+    text-align: left;
+    padding: 28px 0;
+    line-height: 25px;
+}
+.CustomerParent .customerInfo i {
+    color: black;
+    background-color: white;
+    width: 30px;
+    border-radius: 50%;
+    height: 30px;
+    text-align: center;
+    line-height: 30px;
+    font-size: 22px;
+    transition: .4s;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+.CustomerParent .customerInfo i:hover{
+    background-color: #FA5D6F;
+}
+
+
+.CustomerParent .customerInfo .user {
+    display: flex;
+    padding: 18px 0;
+    margin-bottom: 18px;
+}
+
+.CustomerParent .customerInfo .user .img {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    overflow: hidden;
+    background-color: aquamarine;
+    margin-right: 18px;
+}
+
+.CustomerParent .customerInfo .user .names{}
+
+.CustomerParent .customerInfo .user .names h4 {
+    font-size: 15px;
+    font-weight: 500;
+}
+
+.CustomerParent .customerInfo .user .names h5 {
+    font-size: 13px;
+    line-height: 15px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
